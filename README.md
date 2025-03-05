@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTHOSH KUMAR  
 
-Super Store Sales Dashboard
+**Super Store Sales Dashboard**
 This Power BI dashboard provides insights into Super Store Sales by analyzing key metrics such as total sales, profit, orders, and delivery time. It visualizes data across different regions, payment modes, segments, and categories to help understand business performance.
 
 Key Features:
